@@ -1,1 +1,1 @@
-# PKCryptography
+# This repository is to share the the code I used in my studies of public key cryptography. I built all the tools I need to implement many of the modern cryptosystems I studied, which theoretically I can use to send confidential messages between myself and others!
