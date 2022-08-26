@@ -1,4 +1,3 @@
-
 ########## Problem 1
 def slowPower(g,A,N):
  x = 1
