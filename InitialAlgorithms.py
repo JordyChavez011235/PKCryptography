@@ -1,3 +1,6 @@
+# This file will create and implement some of the important initial algorithms we will be needing later on
+
+
 ##### part (a)
 def divides(a,b):
 #We use that b%a == 0 if and only if a divides b
@@ -23,7 +26,7 @@ def getDivisorsFaster(a):
 
 ##### part (c)
 def getCommonDivisors(a,b):
-#you could call getDivisors and compare lists, but it's a bit more␣ ,→efficient I think to just populate a new list at once.
+#you could call getDivisors and compare lists, but it's a bit more efficient I think to just populate a new list at once.
   listOfCommonDivisors = []
   for i in range(1,min(a,b)+1):
     if divides(i,a) and divides(i,b):
