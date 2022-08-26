@@ -1,5 +1,3 @@
-# This file will create and implement some of the important initial algorithms we will be needing later on
-
 
 ##### part (a)
 def divides(a,b):
